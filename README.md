@@ -63,6 +63,9 @@ opencv-python: Apache 2.0
 
 Considering all the different licenses, their common ground and the most restrictive conditions, I have decided to open source our code with the Apache 2.0 License.
 
+## Professionalism: 
 
+There are no apparent or serious security issues with the system. 
+Privacy is also considered as we do not store user biometric date or any recording of the user. Song feedback is only considered with respect to song and not individual users.  
 
  
